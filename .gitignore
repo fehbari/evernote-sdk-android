@@ -27,3 +27,4 @@ gen-external-apklibs
 local.properties
 build.xml
 proguard-project.txt
+build/outputs/**
